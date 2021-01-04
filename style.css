@@ -9,3 +9,11 @@ h1{
 .nameHighlight{
     color: #e34c26;
 }
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    margin: 5%;
+    float: left;
+}
